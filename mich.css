@@ -1,0 +1,40 @@
+.tace{
+    padding: 50px;
+    border-radius: 50px;
+    margin: 50px; 
+    display: flex;
+    justify-content: space-evenly;
+}
+#two{
+    padding: 20px;
+    flex-direction: column;
+    background-color: beige;
+    width: 60%;
+}
+#one{
+    border-radius: 10px;
+    background-color: beige;
+    margin: 50px;
+    padding: 50px;
+}
+.pee{
+    padding: 50px;
+    border-radius: 50px;
+    margin: 50px; 
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+#three{
+    padding: 20px;
+    flex-direction: column;
+    background-color: beige;
+    width: 30%;
+}
+#four{
+    padding: 20px;
+    flex-direction: column;
+
+}
+.head{text-align: center;
+    font-style: italic;}
